@@ -1,4 +1,13 @@
-### Hi there 👋
+### Waltteri Suomi
+
+I am a student at HAMK.
+
+I'm currently learning:
+- Python
+- Rust
+- C#
+- Html
+- CSS
 
 <!--
 **WaltteriSuomi/WaltteriSuomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
