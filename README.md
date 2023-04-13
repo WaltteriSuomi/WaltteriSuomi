@@ -1,4 +1,4 @@
-### Waltteri Suomi
+### Walsu
 
 I am a student at HAMK.
 
