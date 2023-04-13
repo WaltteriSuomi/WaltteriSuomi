@@ -1,8 +1,8 @@
 ### Walsu
 
-I am a student at HAMK.
+I am a student at HAMK. 
 
-I'm currently learning:
+I'm currently interested in:
 - Python
 - Rust
 - C#
