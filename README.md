@@ -6,7 +6,7 @@ I'm currently interested in:
 - Python
 - Rust
 - C#
-- Html
+- JavaScript
 - CSS
 
 <!--
